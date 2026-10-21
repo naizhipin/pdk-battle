@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-21T06:40:56.252Z",
+  "teams": [
+    {
+      "name": "A队",
+      "members": [
+        "5M",
+        "pdk夜店头牌 （玄冰裂穹嗜血狂鲨皇）",
+        "风抑云",
+        "ZeKKK（ZeKKK）",
+        "刀刀",
+        "阿车（农场悟道）"
+      ]
+    },
+    {
+      "name": "B队",
+      "members": [
+        "teasel",
+        "Www （I eat the world）",
+        "PDKK",
+        "迷糊老师",
+        "PPF(Pifer)",
+        "九天西下（九天西下）"
+      ]
+    },
+    {
+      "name": "C队",
+      "members": [
+        "最佳葡萄 （最佳葡萄）",
+        "青逸91 （糖心夹）",
+        "交道",
+        "suote",
+        "没到异世界也要拿出真本事 （黑猫赛高）",
+        "聪明的鹅企（Highslug）"
+      ]
+    },
+    {
+      "name": "D队",
+      "members": [
+        "PDK有点无语 （酒精灯笙市）",
+        "武藏",
+        "奶制穗",
+        "好好大王",
+        "PdK的主人 （Ares）",
+        "Sasaki （Sasaki22）"
+      ]
+    }
+  ],
+  "draw": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "wins": [
+    null,
+    null
+  ],
+  "finals": [
+    null,
+    null
+  ]
+}
